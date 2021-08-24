@@ -9,6 +9,7 @@
 My Projects are - 
 
 1. CRM Cart App - <a href="http://cms-cart-app.herokuapp.com">Site Demo</a>
+2. Chat Applicaton - <a href="https://61247e6644aed063bf403e85--rakib-chat-app.netlify.app/">Site Demo</a>
 
 
 - 📫 How to reach me - rakibul.nexkraft@gmail.com
